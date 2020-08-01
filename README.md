@@ -5,3 +5,4 @@ Repositório contendo a resolução de exercícios da disciplina de Redes Neurai
 - Exercício 02 - Comparação de Redes Neurais
 - Exercício 03 - Descida de gradiente e taxa de aprendizado
 - Exercício 04 - Implementação de uma ELM
+- Exercício 05 - Implementação da Fase Foward de uma rede XOR
